@@ -110,11 +110,17 @@ This Power BI solution addresses these needs by transforming raw transactional d
 - Column chart: Total Sales by Product Category
 - Slicers: Year, Region
 
+  <img width="1091" height="703" alt="image" src="https://github.com/user-attachments/assets/4a6a2584-7465-4565-8550-8dd60d5a8c09" />
+
+
 **Page 2 – Detailed Analysis**
 - Stacked bar chart with drill-down hierarchy (Category → Sub-Category)
 - Matrix: Sales & Profit by Region and Year
 - Decomposition tree: Sales breakdown by Category, Region, Segment
 - Slicers: Year, Category
+
+  <img width="1121" height="662" alt="image" src="https://github.com/user-attachments/assets/844cad36-49f0-48cf-9109-4c0985e7a280" />
+
 
 **Page 3 – Insights & Performance Monitoring**
 - Line chart: Year-over-Year Sales comparison
