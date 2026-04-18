@@ -63,8 +63,6 @@ This Power BI solution addresses these needs by transforming raw transactional d
 - Loaded Excel file into Power BI (Orders, People, Returns sheets)
 - Analyzed table structure, data types, and business relevance
 
-<img width="495" height="555" alt="image" src="https://github.com/user-attachments/assets/871b369d-5447-43b0-9f74-b5c9337057c6" />
-
 
 
 ### Part B: Power Query Transformations (13+ steps)
@@ -79,6 +77,10 @@ This Power BI solution addresses these needs by transforming raw transactional d
 - Split Customer Name into First Name and Last Name
 - Merged Products dimension into Orders table on Product ID
 - Created separate Date table using CALENDAR DAX function
+
+  
+<img width="495" height="555" alt="image" src="https://github.com/user-attachments/assets/871b369d-5447-43b0-9f74-b5c9337057c6" />
+
 
 ### Part C: Data Modeling (Star Schema)
 - Identified Orders as Fact Table; Products, Customers, Date as Dimension Tables
