@@ -83,7 +83,8 @@ This Power BI solution addresses these needs by transforming raw transactional d
 - Marked Date_Table as official date table for time intelligence
 - Hid unnecessary foreign key columns for cleaner model
 
-  
+  <img width="1091" height="660" alt="image" src="https://github.com/user-attachments/assets/75b8a980-5870-4b51-a48c-cca3ea6972f9" />
+
 
 ### Part D: DAX Measures & Calculated Columns
 
