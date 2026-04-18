@@ -135,6 +135,8 @@ This Power BI solution addresses these needs by transforming raw transactional d
 - Clustered column chart: Monthly Sales vs Previous Year
 - Slicers: Year, Category for cross-filtering
 
+<img width="1174" height="762" alt="image" src="https://github.com/user-attachments/assets/10fd57c5-2da7-43b0-97ec-fb7aadfd3235" />
+
 ### Part F: Analytical Insights & Recommendations
 
 **Five Insights:**
