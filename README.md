@@ -63,6 +63,9 @@ This Power BI solution addresses these needs by transforming raw transactional d
 - Loaded Excel file into Power BI (Orders, People, Returns sheets)
 - Analyzed table structure, data types, and business relevance
 
+<img width="1218" height="712" alt="image" src="https://github.com/user-attachments/assets/c31f753e-2acc-416f-b7cf-0931aa5295e9" />
+
+
 ### Part B: Power Query Transformations (13+ steps)
 - Removed duplicate rows and null Order IDs
 - Converted Order Date from Text to Date (UK locale)
